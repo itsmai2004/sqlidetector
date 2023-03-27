@@ -1,0 +1,19 @@
+{
+    "name": "mai20/sqlidetector",
+    "description": "Tools for finding vulns",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mai20\\Sqlidetector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mai",
+            "email": "itsmai2004@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
